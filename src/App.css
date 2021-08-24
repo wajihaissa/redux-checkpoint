@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  
+}
+
+
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+    
+.todo{
+    display: flex;
+    justify-content: center;
+    margin-top:50px ;
+    margin-bottom: 8px;
+}
+#inputsize{
+    width: 50%;
+    
+
+}
+.tasks{
+    background-color: blue;
+    color: whitesmoke;
+    margin: 0 auto;
+    
+
+}
